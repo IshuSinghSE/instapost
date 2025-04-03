@@ -8,10 +8,17 @@ with open("swiggyindia.json", "r") as f:
     username = user_data["username"]
     user_id = user_data["id"]
     media = user_data["edge_owner_to_timeline_media"]
-    post_count = media["count"]
+    video = user_data["edge_felix_video_timeline"]
     posts = media["edges"]
+    videos = video["edges"]
+    post_count = media["count"]
+    video_count = video["count"] 
+    post_available = len(posts)
+    video_available = len(videos)
 
     print(f"Total posts: {len(posts)}\n {username} has {post_count} posts")
+    print(f"Total videos: {len(videos)}\n {username} has {video_count} videos")
+
 
     formatted_posts = []
 
