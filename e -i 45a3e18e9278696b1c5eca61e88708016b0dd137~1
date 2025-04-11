@@ -1,0 +1,35 @@
+[33mcommit 180ad8e20f5ac8957b670d8eab5336a8a6247331[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Fri Apr 11 10:50:12 2025 +0530
+
+    update the scaper
+
+[33mcommit cbc9710af202fd175c770f5412b3f3ae7ce172ba[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Fri Apr 11 10:48:51 2025 +0530
+
+    update the scaper
+
+[33mcommit 45a3e18e9278696b1c5eca61e88708016b0dd137[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Fri Apr 11 10:47:48 2025 +0530
+
+    update the scaper
+
+[33mcommit 3013883cbff634328c61b087c2c3fcf04bbfab6e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Thu Apr 3 18:45:28 2025 +0530
+
+    update mainn.py avoid blocking
+
+[33mcommit 46962190b4dbd92d48046053c4d1fb7a49d76875[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Thu Apr 3 18:28:54 2025 +0530
+
+    scrap using insta api
+
+[33mcommit 868789ecc270e948905d993c8ef34964f69ca317[m
+Author: IshuSinghSE <ishu.111636@gmail.com>
+Date:   Sun Mar 30 21:21:41 2025 +0530
+
+    initial commit
